@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='kggbjjjioekjbpanckhlaajhkdmkhbhh'>
+    <updatecheck codebase='https://dl-web.dropbox.com/get/Public/packaged_full_permissions.crx?_subject_uid=187671417&w=AAD03WCS7TcAT1HgDI9cSdd2CS4eeo5GON1i-T6rJm6RaA&dl=1' version='5.5' />
+  </app>
+</gupdate>
